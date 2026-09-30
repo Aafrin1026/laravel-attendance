@@ -73,8 +73,8 @@ Open: http://127.0.0.1:8000
 |---|---|---|
 | Admin | admin | Admin@12345 |
 | Student | aafrin@icst.edu | student123 |
-| Student | hazeem@icst.edu | student123 |
-| Student | nifra@icst.edu | student123 |
+| Student | banu@icst.edu | student123 |
+| Student | fathi@icst.edu | student123 |
 
 ---
 
